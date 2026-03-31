@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Jacques%20Lin&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Data%20Engineer&descColor=58a6ff&descAlignY=55&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Jacques%20Lin&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Data%20Engineer%20Junior&descColor=58a6ff&descAlignY=55&descSize=20&animation=fadeIn" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+data+pipelines+%F0%9F%9A%80;From+raw+data+to+business+insights+%F0%9F%93%8A;Designing+cloud-native+data+architectures+%E2%98%81%EF%B8%8F;Turning+messy+data+into+clean+gold+%E2%9C%A8;Orchestrating+workflows+that+never+sleep+%F0%9F%94%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+data+pipelines;From+raw+data+to+business+insights;Designing+cloud-native+data+architectures;Turning+messy+data+into+clean+gold;Orchestrating+workflows+that+never+sleep)](https://git.io/typing-svg)
 
 </div>
 
@@ -40,7 +40,7 @@ Objectif : devenir un Data Engineer capable de construire des pipelines solides,
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacques2625&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)](https://github.com/Jacques2625)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jacques2625&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true)](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jacques2625&layout=compact)
 
 </div>
 
