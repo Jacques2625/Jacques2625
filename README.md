@@ -1,10 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Jacques%20Lin&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Data%20Engineer%20Junior&descColor=58a6ff&descAlignY=55&descSize=20&animation=fadeIn" />
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+data+pipelines;From+raw+data+to+business+insights;Designing+cloud-native+data+architectures;Turning+messy+data+into+clean+gold;Orchestrating+workflows+that+never+sleep)](https://git.io/typing-svg)
-
 </div>
+
+---
 
 ##  À propos de moi
 
