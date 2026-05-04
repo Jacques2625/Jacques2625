@@ -28,10 +28,10 @@ Objectif : devenir un Data Engineer capable de construire des pipelines solides,
 |---|---|
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=FF9900) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white) ![Glue](https://img.shields.io/badge/Glue-8C4FFF?style=flat&logo=amazonwebservices&logoColor=white) ![Athena](https://img.shields.io/badge/Athena-8C4FFF?style=flat&logo=amazonwebservices&logoColor=white) ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat&logo=amazoniam&logoColor=white) ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white) |
 | **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![DBT](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) |
+| **Framework** | ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) |
 | **Orchestration** | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=flat&logo=amazonwebservices&logoColor=white) ![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=flat&logo=amazonwebservices&logoColor=white) |
 | **BI & Dataviz** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Oracle Analytics](https://img.shields.io/badge/Oracle_Analytics-F80000?style=flat&logo=oracle&logoColor=white) |
 | **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
-
 ---
 
 ##  Top Languages
